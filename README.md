@@ -2,6 +2,6 @@
 
 ## 1
 ### film tablosunda bulunan title ve description sütunlarındaki verileri sıralayınız.
-````postgresql
+```postgresql
  SELECT title, description FROM film;
- ```
+```
